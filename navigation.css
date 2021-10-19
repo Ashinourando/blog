@@ -44,5 +44,6 @@ ul {
 
 body {
    position: relative;
-   top: 1000px;
+   top: 100px;
+   right: 10px;
 }
