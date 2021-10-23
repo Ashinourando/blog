@@ -7,7 +7,7 @@ button {
   padding: 0.4em 1.5em; /* 塗りの余白 */
   border: solid 1px #00764c;
   font-size: 1em; /* フォントサイズ */
-  background-color: none; /* 背景色 */
+  background-color: #FFF; /* 背景色 */
   color: #00764c; /* テキストカラー */
   cursor: pointer; /* カーソルを指マークに */
   border-radius: 100px; /* 角の丸み */
