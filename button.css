@@ -4,7 +4,7 @@ button {
   appearance: none;
 
   margin: 1em 0; /* 前後の隙間 */
-  padding: 0.2em 1.2em; /* 塗りの余白 */
+  padding: 0.4em 1.5em; /* 塗りの余白 */
   font-size: 1em; /* フォントサイズ */
   background-color: #00764c; /* 背景色 */
   color: #FFF; /* テキストカラー */
