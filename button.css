@@ -4,12 +4,12 @@ button {
   appearance: none;
 
   margin: 1em 0; /* 前後の隙間 */
-  padding: 0.6em 1em; /* 塗りの余白 */
+  padding: 0.2em 1.2em; /* 塗りの余白 */
   font-size: 1em; /* フォントサイズ */
   background-color: #00764c; /* 背景色 */
   color: #FFF; /* テキストカラー */
   cursor: pointer; /* カーソルを指マークに */
-  border-radius: 3px; /* 角の丸み */
+  border-radius: 100px; /* 角の丸み */
   border: 0; /* 枠線を消す */
   transition: 0.3s; /* ホバーの変化を滑らかに */
 }
