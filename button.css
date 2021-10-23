@@ -6,7 +6,7 @@ button {
   margin: 1em 0; /* 前後の隙間 */
   padding: 0.6em 1em; /* 塗りの余白 */
   font-size: 1em; /* フォントサイズ */
-  background-color: #1aa1ff; /* 背景色 */
+  background-color: #00764c; /* 背景色 */
   color: #FFF; /* テキストカラー */
   cursor: pointer; /* カーソルを指マークに */
   border-radius: 3px; /* 角の丸み */
@@ -16,5 +16,5 @@ button {
 
 /* ホバー時（カーソルをのせた時）の見た目 */
 button:hover {
-  background-color: #064fda; /* 背景色 */
+  background-color: #00764c; /* 背景色 */
 }
