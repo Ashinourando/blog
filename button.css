@@ -5,16 +5,10 @@ button {
 
   margin: 1em 0; /* 前後の隙間 */
   padding: 0.4em 1.5em; /* 塗りの余白 */
+  border: solid 1px #00764c;
   font-size: 1em; /* フォントサイズ */
-  background-color: #00764c; /* 背景色 */
-  color: #FFF; /* テキストカラー */
+  background-color: none; /* 背景色 */
+  color: #00764c; /* テキストカラー */
   cursor: pointer; /* カーソルを指マークに */
   border-radius: 100px; /* 角の丸み */
-  border: 0; /* 枠線を消す */
-  transition: 0.3s; /* ホバーの変化を滑らかに */
-}
-
-/* ホバー時（カーソルをのせた時）の見た目 */
-button:hover {
-  background-color: #00764c; /* 背景色 */
 }
